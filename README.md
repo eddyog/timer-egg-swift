@@ -15,6 +15,10 @@ The Purpose of the app is to improove my knowledge in the following topics in Sw
 * Functions with outputs
 * How to use the ProgressView 
 
+## Tools
+
+Xcode Version 13.2.1
+
 All the rights deserve to the course online in UDEMY
 
 ### IOS & Swift - The complete IOS App development Bootcamp. By Dr. Angela
