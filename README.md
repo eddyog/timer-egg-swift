@@ -1,6 +1,6 @@
 # Egg Timer
 
-The following in app is a timer that will help you to know how you want your egg. Either soft, medium or hard. 
+The following app is a timer that will help you to know how you want your egg. Either soft, medium or hard. 
 Soft = 5 min 
 Medium = 7 min
 Hard = 12min
