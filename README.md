@@ -6,7 +6,7 @@ Medium = 7 min
 Hard = 12min
 
 ## Purpose 
-The Purpose of the app is to improove my knowledge in the following topics in Swift-IOS13
+The Purpose of the app is to improve my knowledge in the following topics in Swift-IOS13
 
 * Swift Collection types - Dictionaries
 * The Swift Timer API
